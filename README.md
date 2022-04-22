@@ -8,15 +8,17 @@ I created a password generator that promps pop ups for different options that a 
 
 Links to screenshots of password generator.
 
-https://imgur.com/o7Dd88K
+https://imgur.com/CAPMQoH
 
-https://imgur.com/z4nwLYP
+https://imgur.com/EqhSyCK
 
-https://imgur.com/2EmBvXm
+https://imgur.com/S3MrpqJ
 
-https://imgur.com/4pxFOxj
+https://imgur.com/TKSaII7
 
-https://imgur.com/N6q7Mh8
+https://imgur.com/ofkKL1b
+
+
 
 Link to launched website:
 
