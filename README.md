@@ -6,7 +6,7 @@ I created a password generator that promps pop ups for different options that a 
 - I created else, else if, and if codes to create the prompts that pop up for the user to choose which options they would like for their code.
 - I edited the button and text colors in the css code.
 
-Here are screen shots links to show the password generator.
+Links to screenshots of password generator.
 
 https://imgur.com/o7Dd88K
 
@@ -18,7 +18,9 @@ https://imgur.com/4pxFOxj
 
 https://imgur.com/N6q7Mh8
 
+Link to launched website:
 
+https://sgibbs330.github.io/passwordgenerator/
 
 
 
